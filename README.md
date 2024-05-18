@@ -1,4 +1,4 @@
-<h3 align="center">Devoted to computer networking and security, Infrastructure as Code is my expertise!</h3>
+<h3 align="center">Devoted to computer networking and security, I am passionate about using Infrastructure as Code to automate secure, easily monitored networks!</h3>
 
 - 🌱 I’m currently learning **Terraform**
 
